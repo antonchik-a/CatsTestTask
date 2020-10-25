@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //global
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="ui_margin">8dp</dimen>
+
+    //particioant_item
+
+    //profile
+
+    //item news
+
+</resources>
