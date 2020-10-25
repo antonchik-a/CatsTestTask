@@ -45,7 +45,7 @@ class CatsListFragment : BaseFragment(), CatsView {
         }
 
         override fun clickDownload(cat: CatUiViewModel) {
-            presenter.clickDownload(cat)
+            downloadClickWithPermissionCheck(cat)
         }
     }
 
